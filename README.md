@@ -3,7 +3,7 @@ Scraping multiple links using BeautifulSoup from an excel sheet and saving the s
 
 Requirements:-
 1. python
-2. Beautifulsouo
+2. Beautifulsoup
 3. pandas
 
 (scraping 171 links)
